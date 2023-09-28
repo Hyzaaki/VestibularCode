@@ -1,0 +1,7 @@
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\bin\Debug\Vestibular.exe.config
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\bin\Debug\Vestibular.exe
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\bin\Debug\Vestibular.pdb
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\obj\Debug\Vestibular.csproj.AssemblyReference.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\obj\Debug\Vestibular.csproj.CoreCompileInputs.cache
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\obj\Debug\Vestibular.exe
+C:\Users\isaac\OneDrive\Área de Trabalho\Visual Studio\C#\Vestibular\Vestibular\obj\Debug\Vestibular.pdb
